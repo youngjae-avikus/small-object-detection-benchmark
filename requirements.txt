@@ -1,7 +1,6 @@
-sahi>=0.9.3
+# sahi>=0.9.3
 pillow
-mmdet==2.21.0
-mmcv-full==1.4.3
--f https://download.openmmlab.com/mmcv/dist/cu113/torch1.10.0/index.html
+mmdet
+mmcv-full
 tensorboard>=2.7.0
 scipy
